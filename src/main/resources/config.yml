@@ -1,0 +1,7 @@
+experience:
+  interval-seconds: 60
+  experience-per-interval: 1
+  max-level: 100
+  base-experience: 20
+  exponential-factor: 1.1
+reapply-effects-interval: 3
